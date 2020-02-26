@@ -8,11 +8,15 @@ First clone my git repository
 
 and then run npm install on your terminal to install all dependecies : 
 
+```sh
 $ npm install
+```
 
 and to run the web locally, write this command on your terminal : 
 
+```sh
 $ npm run start
+```
 
 ### Database
 
